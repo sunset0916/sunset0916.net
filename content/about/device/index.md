@@ -6,6 +6,8 @@ draft: false
 showDate: false
 showPagination: false
 showTableOfContents: false
+tags: [about, gadget]
+categories: [about]
 ---
 
 持ってる端末とかPCを書いていくよ。

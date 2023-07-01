@@ -6,6 +6,8 @@ draft: false
 showDate: false
 showPagination: false
 showTableOfContents: false
+tags: [about, programming]
+categories: [about]
 ---
 
 どこに需要があるのかわからないような制作物置き場の予定。
