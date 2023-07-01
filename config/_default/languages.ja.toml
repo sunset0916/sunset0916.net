@@ -1,0 +1,27 @@
+languageCode = "ja"
+languageName = "Japanese"
+weight = 1
+
+title = "サンセットのウェブサイト"
+copyright = "&copy; 2023 サンセット"
+
+[params]
+  isoCode = "ja"
+  displayName = ":flag-jp:"
+  rtl = false
+
+  dateFormat = "2006/01/02"
+
+  description = "サンセットのウェブサイトです。"
+
+[author]
+  name = "サンセット"
+  image = "img/author.png"
+  headline = "プログラミングしたりお絵かきしたり自作PC組んだり…"
+  bio = "なんかいろいろやってるミス廃"
+  links = [
+    { twitter = "https://twitter.com/sunset09160306" },
+    { instagram = "https://instagram.com/sunset09160306"},
+    { discord = "https://discord.com/users/343230179008708608"},
+    { link = "https://mi.sunset0916.net/@sunset"},
+  ]
