@@ -6,6 +6,8 @@ draft: false
 showDate: false
 showPagination: false
 showTableOfContents: false
+tags: [about]
+categories: [about]
 ---
 
 {{< lead >}}
