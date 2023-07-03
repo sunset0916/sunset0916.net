@@ -40,7 +40,7 @@ showPagination: false
 ギャグ不足の方は以下のうるサイトへ
 
 - [Midraのサイト](https://midra.me/)
-- [L1n4r1Art](https://lunachi.me/gyagu/index.html)
+- [L1n4r1Art](https://l1n4r1.art/gyagu/)
 - [はやおのぺーじ](https://www.hayao0819.com/gyagu)
 - [るちかどっとねっと。](https://lutica.net/gyagu.html)
 - [cffn.pw/r](https://cffn.pw/r/gyagu)
