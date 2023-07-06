@@ -33,7 +33,7 @@ RTX4000シリーズ不人気による価格低下と歴史的なSSD, RAMの価�
 | マザーボード | ASRock X570 Steel Legend | ASRock B650E Steel Legend WiFi |
 | RAM | G.Skill Trident Z Neo DDR4-3600 16GB x2 | G.Skill Trident Z5 Neo DDR5-6000 32GB x2 |
 | GPU | MSI GeForce GTX 1070 ARMOR 8G OC | GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G |
-| SSD | Samsung 960 EVO 250GB | Samgung 970 EVO Plus 500GB |
+| SSD | Samsung 960 EVO 250GB | Samsung 970 EVO Plus 500GB |
 | HDD | Western Digital Blue 3TB | Western Digital Blue 4TB |
 | ケース | Thermaltake Versa H26 | Thermaltake Versa H26 |
 | 電源 | Silver Stone SST-ET750-G | Silver Stone SST-DA850-G |
