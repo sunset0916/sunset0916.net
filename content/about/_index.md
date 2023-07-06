@@ -45,6 +45,7 @@ Fascode Networkという変態雑技集団に所属し、ブログを書いた�
 | --- | --- |
 | Twitter | [@sunset09160306](https://twitter.com/sunset09160306) |
 | Instagram | [@sunset09160306](https://www.instagram.com/sunset09160306) |
+| Threads | [@sunset09160306@threads.net](https://www.threads.net/@sunset09160306) |
 | Misskey(メイン) | [@sunset@mi.sunset0916.net](https://mi.sunset0916.net/@sunset) |
 | Misskey(Submarin) | [@sunset@submarin.online](https://submarin.online/@sunset) |
 | Misskey(io) | [@sunset@misskey.io](https://misskey.io/@sunset) |
