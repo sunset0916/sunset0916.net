@@ -3,6 +3,8 @@ title: "Windows 11にしたくなかったのでWindows Server 2022に乗り換�
 description: "タスクバーは左揃えで結合はしない、スタートメニューはもちろん多用する。こんな旧式Windows難民には11は辛すぎる。じゃあServerにしちゃおっか。という話。"
 date: 2023-07-12T00:25:19+09:00
 draft: false
+tags: [blog, pc]
+categories: [blog]
 ---
 
 ## はじめに
