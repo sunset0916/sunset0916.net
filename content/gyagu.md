@@ -45,6 +45,7 @@ showPagination: false
 - [はやおのぺーじ](https://www.hayao0819.com/gyagu)
 - [るちかどっとねっと。](https://lutica.net/gyagu.html)
 - [cffn.pw/r](https://cffn.pw/r/gyagu)
+- [かがみーむ](https://site.kagamisskey.com/gyagu.html)
 
 ギャグが足りている方は以下のうるさくないサイトへ
 
