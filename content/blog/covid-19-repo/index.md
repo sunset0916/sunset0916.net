@@ -3,6 +3,8 @@ title: "COVID-19にやられたときの話"
 description: "病気って怖いよね"
 date: 2023-09-06T17:16:14+09:00
 draft: false
+tags: [blog]
+categories: [blog]
 ---
 
 ## はじめに
