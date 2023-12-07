@@ -37,6 +37,7 @@ showPagination: false
 - トナーを買わんとなー
 - 香辛料サブスクの更新料
 - そうやな、宗谷岬行こかな
+- 手紙を繰り返し送り返します
 
 ギャグ不足の方は以下のうるサイトへ
 
@@ -44,7 +45,7 @@ showPagination: false
 - [L1n4r1Art](https://l1n4r1.art/gyagu/)
 - [はやおのぺーじ](https://www.hayao0819.com/gyagu)
 - [るちかどっとねっと。](https://lutica.net/gyagu.html)
-- [cffn.pw/r](https://cffn.pw/r/gyagu)
+- [cffn.pw/r(リンク先お亡くなり)](https://cffn.pw/r/gyagu)
 - [かがみーむ](https://site.kagamisskey.com/gyagu.html)
 
 ギャグが足りている方は以下のうるさくないサイトへ
