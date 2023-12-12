@@ -14,7 +14,7 @@ copyright = "&copy; 2023 サンセット"
 
   description = "サンセットのウェブサイトです。"
 
-[params.author]
+[author]
   name = "サンセット"
   image = "img/author.png"
   headline = "プログラミングしたりお絵かきしたり自作PC組んだり…"
