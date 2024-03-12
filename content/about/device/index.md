@@ -15,13 +15,18 @@ categories: [about]
 ## PC
 
 - デスクトップ：自作
-- ノート1：MacBook Pro M1 2020
+- ノート1：MacBook Pro 14inch M3 2023
 - ノート2：MSI Modern 14
 
 ## スマホ
 
 - Nothing Phone(1)
-- iPhone SE(第2世代)
+- iPhone SE(第3世代)
+- Mode1 RETRO Ⅱ
+
+## タブレット
+
+- iPad Air(第5世代)
 
 ## 検証用環境
 
@@ -39,17 +44,22 @@ categories: [about]
 - Rakuten Hand
 - UMIDIGI F1 Play
 - HUAWEI P30 lite
+- Samsung Galaxy S20 5G SC-51Aa
+- Google Pixel 4a
 - Lenovo IdeaPad Duet Chromebook
+- Dospara Diginnos DG-D08IW2SL
 - HP EliteBook 2560p
 - Acer Aspire one
 - SOTEC AFiNA AG353
 - NEC LaVie NX LW23C/52
+- NEC LaVie E LE150/S1W
 - RaspberryPi 3 Model B
 - RaspberryPi 3 Model B+
+- LIVA-C0-2G-64G-W x2
+- Shuttle DH170
 
 ## サーバー
 
 - HP Z420 Workstation
-- 白LIVA x2
-- 小型ベアボーン(型番不明)
+- ASRock DeskMini X300
 - Synology DS220j

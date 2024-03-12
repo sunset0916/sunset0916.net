@@ -61,6 +61,7 @@ Fascode Networkという変態雑技集団に所属し、ブログを書いた�
 ## 使用言語(使えるとは言ってない)
 
 - VisualBasic.NET：Windows向けの需要のないソフトの開発ができる程度
+- C#：Windows向けの以下略
 - Java：Android向けの需要のないアプリの開発ができる程度
 - Python：コマンドラインベースのTwitter/Misskey同時投稿スクリプトが作れる程度
 - HTML：[このサイト](https://old.sunset0916.net/)が作れる程度
@@ -74,7 +75,7 @@ Fascode Networkという変態雑技集団に所属し、ブログを書いた�
 
 ### IDE・エディタ
 
-- Visual Studio 2019
+- Visual Studio 2022
 - Visual Studio Code
 - Eclipse
 - Android Studio
