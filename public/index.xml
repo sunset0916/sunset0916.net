@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2023 サンセット</copyright>
-    <lastBuildDate>Tue, 12 Mar 2024 12:42:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:30:39 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>32bitでDockerでMisskey v12なサーバーを64bitでネイティブ動作の最新版までアップグレードした話</title>
+      <link>//localhost:1313/blog/2024/03/19/tenpest-moon-upgrade/</link>
+      <pubDate>Tue, 19 Mar 2024 12:30:39 +0900</pubDate>
+      <guid>//localhost:1313/blog/2024/03/19/tenpest-moon-upgrade/</guid>
+      <description>はじめに #アプデ、面倒ですよね。</description>
+    </item>
     <item>
       <title>Misskeyのアンテナワードには1MiBの制限がある話</title>
       <link>//localhost:1313/blog/2024/03/12/misskey-antenna/</link>
@@ -21,7 +28,7 @@
       <link>//localhost:1313/blog/2023/12/04/misskey-advent-2023/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0900</pubDate>
       <guid>//localhost:1313/blog/2023/12/04/misskey-advent-2023/</guid>
-      <description>この記事は Misskey Advent Calendar 2023 4日目の記事です。 はじめに #はじめましての方ははじめまして、そうでない方はこんにちは。サンセット( @sunset@mi.</description>
+      <description>この記事はMisskey Advent Calendar 2023 4日目の記事です。 はじめに #はじめましての方ははじめまして、そうでない方はこんにちは。サンセット(@sunset@mi.</description>
     </item>
     <item>
       <title>Xiaomi Smart Band 8のグローバル版を買ったはずが日本版と同じだった話</title>
