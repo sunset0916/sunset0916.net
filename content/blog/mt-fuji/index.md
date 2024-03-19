@@ -85,7 +85,11 @@ categories: [blog]
 
 16:00 8合目山小屋到着  
 みてこの気温
-<img src="8th-station.jpg" alt="寒すぎ" class="img-fluid">
+{{< figure
+    src="8th-station.jpg"
+    alt="寒すぎ"
+    default=true
+    >}}
 
 ### 2日目
 
@@ -99,7 +103,11 @@ categories: [blog]
 暗くて写真撮ってないよー3
 
 4:30 山頂到着
-<img src="summit.jpg" alt="山頂の目印的なやつ" class="img-fluid">
+{{< figure
+    src="summit.jpg"
+    alt="山頂の目印的なやつ"
+    default=true
+    >}}
 
 5:00 下山開始  
 ご来光も見れたのでね
