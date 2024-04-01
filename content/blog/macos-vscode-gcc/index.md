@@ -3,6 +3,8 @@ title: "macOS上のVSCodeで(たぶん)一番シンプルにgccを使ってコ�
 description: "Clangなんてコンパイラ、知らない！"
 date: 2024-04-01T16:59:27+09:00
 draft: false
+tags: [blog, programming]
+categories: [blog]
 ---
 
 ## はじめに
