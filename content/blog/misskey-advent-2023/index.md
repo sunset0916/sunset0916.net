@@ -3,7 +3,7 @@ title: "Misskeyの鯖缶を始めて1年で起こったことや変化など"
 description: "自鯖用意して障害対策してメイド服着てからが本番"
 date: 2023-12-04T00:00:00+09:00
 draft: false
-tags: [blog]
+tags: [blog, misskey]
 categories: [blog]
 ---
 

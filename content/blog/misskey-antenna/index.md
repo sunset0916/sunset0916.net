@@ -3,6 +3,8 @@ title: "Misskeyのアンテナワードには1MiBの制限がある話"
 description: "こんなの気にしてるのサンセットだけ"
 date: 2024-03-12T12:42:21+09:00
 draft: false
+tags: [blog, misskey]
+categories: [blog]
 ---
 
 ## はじめに
