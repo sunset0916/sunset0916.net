@@ -7,13 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2023 サンセット</copyright>
-    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:59:27 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>//localhost:1313/tags/blog/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 01 Apr 2024 16:59:27 +0900</pubDate>
       <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
+      <pubDate>Mon, 01 Apr 2024 16:59:27 +0900</pubDate>
+      <guid>//localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misskey</title>
+      <link>//localhost:1313/tags/misskey/</link>
+      <pubDate>Tue, 19 Mar 2024 12:30:39 +0900</pubDate>
+      <guid>//localhost:1313/tags/misskey/</guid>
       <description></description>
     </item>
     <item>
@@ -35,13 +49,6 @@
       <link>//localhost:1313/tags/about/</link>
       <pubDate>Sat, 01 Jul 2023 21:04:31 +0900</pubDate>
       <guid>//localhost:1313/tags/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
-      <pubDate>Sat, 01 Jul 2023 21:04:07 +0900</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
   </channel>

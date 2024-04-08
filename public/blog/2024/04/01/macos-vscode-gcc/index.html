@@ -125,7 +125,7 @@
     
     "dateModified": "2024-04-01T16:59:27\u002b09:00",
     
-    
+    "keywords": ["blog","programming"],
     
     "mainEntityOfPage": "true",
     "wordCount": "98"
@@ -461,7 +461,7 @@
       <div class="min-h-0 min-w-0 max-w-prose grow">
         <h2 id="はじめに" class="relative group">はじめに <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e3%81%af%e3%81%98%e3%82%81%e3%81%ab" aria-label="アンカー">#</a></span></h2><p>C言語の開発環境を整えたくなることありますよね。</p>
 <p>しかしmacOSでは、デフォルトの状態で<code>gcc</code>や<code>g++</code>がClangというコンパイラへのリンクとなっており、gcc用に書かれたコードをコンパイルしようとするとライブラリが足りずにコンパイルできないなんてことになります。</p>
-<p>gccを入れシンボリックリンクを置いてClangからコマンドの宛先を奪い取っても良いんですがこれではシンプルではないので今回はVSCodeの拡張機能だけでサクッとコンパイル・実行できるようにしていきます。</p>
+<p>gccを入れシンボリックリンクを置いてClangからコマンドの宛先を奪い取っても良いんですが、これではシンプルと呼べないので今回はVSCodeの拡張機能だけでサクッとコンパイル・実行できるようにしていきます。</p>
 <h2 id="前提" class="relative group">前提 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e5%89%8d%e6%8f%90" aria-label="アンカー">#</a></span></h2><p>今回は以下のような状態であることを前提とします。</p>
 <ul>
 <li>Apple SiliconのMac
@@ -482,7 +482,7 @@
 </ul>
 <p>VSCodeに拡張機能の<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank" rel="noreferrer">Code Runner</a>を入れておきます。</p>
 <p><a href="https://brew.sh/ja/" target="_blank" rel="noreferrer">Homebrew</a>はRosettaを使わない状態で入れ、<a href="https://formulae.brew.sh/formula/gcc" target="_blank" rel="noreferrer">gcc</a>をインストールしておきます。</p>
-<h2 id="設定" class="relative group">設定 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e8%a8%ad%e5%ae%9a" aria-label="アンカー">#</a></span></h2><p>前提のところまで環境ができたら拡張機能の設定でいい感じコンパイル・実行できるようにしていきます。</p>
+<h2 id="設定" class="relative group">設定 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e8%a8%ad%e5%ae%9a" aria-label="アンカー">#</a></span></h2><p>前提のところまで環境ができたら拡張機能の設定でいい感じ™にコンパイル・実行できるようにしていきます。</p>
 <p>はじめに、Code Runnerの設定アイコンかVSCodeの設定から<code>Code-runner: Executor Map</code>の項目を出し、<code>settings.json</code>を開きます。</p>
 <p>すると、以下のようなjsonの構造があると思うので、</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="s2">&#34;code-runner.executorMap&#34;</span><span class="err">:</span> <span class="p">{</span>
@@ -692,6 +692,25 @@
           
         </span>
         <span>
+          
+            <a class="group flex text-right" href="/blog/2024/04/08/mode1-retro-ii-keycode/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Mode1 RETRO Ⅱの物理ボタンのキーコードを調べた話</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-04-08 10:17:43 &#43;0900 JST">2024/04/08</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&rarr;</span
+                ><span class="ltr:hidden rtl:inline">&larr;</span></span
+              >
+            </a>
           
         </span>
       </div>

@@ -4,16 +4,29 @@
   
     
       <url>
-            <loc>//localhost:1313/blog/2024/04/01/macos-vscode-gcc/</loc>
-            <lastmod>2024-04-01T16:59:27+09:00</lastmod>
+            <loc>//localhost:1313/blog/2024/04/08/mode1-retro-ii-keycode/</loc>
+            <lastmod>2024-04-08T10:17:43+09:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>//localhost:1313/</loc>
+            <lastmod>2024-04-08T10:17:43+09:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/blog/2024/04/01/macos-vscode-gcc/</loc>
             <lastmod>2024-04-01T16:59:27+09:00</lastmod>
           </url>
+    
+  
+    
+  
     
   
     
@@ -24,6 +37,8 @@
     
   
     
+  
+    
       <url>
             <loc>//localhost:1313/blog/2024/03/12/misskey-antenna/</loc>
             <lastmod>2024-03-12T12:42:21+09:00</lastmod>
@@ -31,14 +46,10 @@
     
   
     
-  
-    
       <url>
             <loc>//localhost:1313/blog/2023/12/04/misskey-advent-2023/</loc>
             <lastmod>2023-12-04T00:00:00+09:00</lastmod>
           </url>
-    
-  
     
   
     
@@ -108,8 +119,6 @@
             <loc>//localhost:1313/about/wishlist/</loc>
             <lastmod>2023-07-01T21:04:31+09:00</lastmod>
           </url>
-    
-  
     
   
     
