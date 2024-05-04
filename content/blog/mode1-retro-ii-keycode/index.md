@@ -3,6 +3,8 @@ title: "Mode1 RETRO Ⅱの物理ボタンのキーコードを調べた話"
 description: "特殊なスマホはいろいろ特殊になりがち"
 date: 2024-04-08T10:17:43+09:00
 draft: false
+tags: [blog, gadget]
+categories: [blog]
 ---
 
 ## はじめに
