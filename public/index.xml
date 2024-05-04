@@ -4,11 +4,18 @@
     <title>サンセットのウェブサイト</title>
     <link>//localhost:1313/</link>
     <description>Recent content on サンセットのウェブサイト</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2023 サンセット</copyright>
-    <lastBuildDate>Mon, 08 Apr 2024 10:17:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 16:59:11 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>モバイルバッテリーのケースには化粧ポーチが最適という話</title>
+      <link>//localhost:1313/blog/2024/04/30/anker-347pb-case/</link>
+      <pubDate>Tue, 30 Apr 2024 16:59:11 +0900</pubDate>
+      <guid>//localhost:1313/blog/2024/04/30/anker-347pb-case/</guid>
+      <description>はじめに #最近、Anker 347 Power Bankという40000mAhのクソデカいモバイルバッテリーを買ったんですが、ちょっとサイズや質感的にケースがほしい感じなんですよね。</description>
+    </item>
     <item>
       <title>Mode1 RETRO Ⅱの物理ボタンのキーコードを調べた話</title>
       <link>//localhost:1313/blog/2024/04/08/mode1-retro-ii-keycode/</link>

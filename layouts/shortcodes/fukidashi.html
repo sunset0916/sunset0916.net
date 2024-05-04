@@ -1,0 +1,8 @@
+<div class="fukidashi-wrapper {{ .Get "position" }}">
+  <figure class="fukidashi-figure">
+    <img class="fukidashi-image" src="{{$.Site.Params.imageBasePath}}{{.Get "path"}}">
+  </figure>
+  <div class="fukidashi-main fukidashi-main__{{.Get "position"}}">
+    <p> {{ .Inner | markdownify }}</p>
+  </div>
+</div>
