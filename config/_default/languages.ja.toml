@@ -3,7 +3,7 @@ languageName = "Japanese"
 weight = 1
 
 title = "サンセットのウェブサイト"
-copyright = "&copy; 2023 サンセット"
+copyright = "&copy; 2023-2024 サンセット"
 
 [params]
   isoCode = "ja"

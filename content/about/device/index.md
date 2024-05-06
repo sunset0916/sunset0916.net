@@ -37,6 +37,7 @@ categories: [about]
 - SONY Xperia Z5 Premium SO-03H
 - Fujitsu らくらくスマートフォンme F-03K
 - Fujitsu arrows Be F-04K
+- Fujitsu arrows Be3 F-02L
 - SHARP AQUOS Xx3 mini 603SH
 - SHARP AQUOS sense SH-01K
 - Motorola moto g31
@@ -57,9 +58,9 @@ categories: [about]
 - RaspberryPi 3 Model B+
 - LIVA-C0-2G-64G-W x2
 - Shuttle DH170
+- HP Z420 Workstation
 
 ## サーバー
 
-- HP Z420 Workstation
 - ASRock DeskMini X300
 - Synology DS220j
