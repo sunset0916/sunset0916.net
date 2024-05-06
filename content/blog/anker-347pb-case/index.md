@@ -1,6 +1,6 @@
 ---
 title: "モバイルバッテリーのケースには化粧ポーチが最適という話"
-description: ""
+description: "専用品以外が専用日を上回ること、ありますよね。"
 date: 2024-04-30T16:59:11+09:00
 draft: false
 tags: [blog, gadget]
