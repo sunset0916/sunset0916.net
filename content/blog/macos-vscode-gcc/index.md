@@ -46,21 +46,21 @@ VSCodeに拡張機能の[Code Runner](https://marketplace.visualstudio.com/items
 ここに以下のようにgccのパスを含んだコマンドを入れます。
 
 ```json
-"c": "cd $dir && /opt/homebrew/bin/gcc-13 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-"cpp": "cd $dir && /opt/homebrew/bin/g++-13 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+"c": "cd $dir && /opt/homebrew/bin/gcc-14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+"cpp": "cd $dir && /opt/homebrew/bin/g++-14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
 ```
 
 私の環境ではこうなっています。
 
 ```json
 "code-runner.executorMap": {
-    "c": "cd $dir && /opt/homebrew/bin/gcc-13 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-    "cpp": "cd $dir && /opt/homebrew/bin/g++-13 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "c": "cd $dir && /opt/homebrew/bin/gcc-14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "cpp": "cd $dir && /opt/homebrew/bin/g++-14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
     "python": "python3 -u"
 },
 ```
 
-`/opt/homebrew/bin/gcc-13`はインストールしたgccのパスで、その他の部分はCode Runnerのデフォルトの設定になっています。
+`/opt/homebrew/bin/gcc-14`はインストールしたgccのパスで、その他の部分はCode Runnerのデフォルトの設定になっています。
 
 この部分はCode Runnerのコマンドをカスタマイズする方法などで調べると書き方が出てくると思うので自由に使いやすいように変更すると良いと思います。
 
@@ -80,6 +80,6 @@ VSCodeに拡張機能の[Code Runner](https://marketplace.visualstudio.com/items
 
 ネットで調べるとパスを通すだとかシンボリックリンクを配置するだとか初心者に優しくない方法が上位に出てきますが、これなら簡単で環境を壊すこともないのでおすすめできると思います。
 
-VSCode以外でもgccを使いたい場合は気合で`/opt/homebrew/bin/gcc-13`を打つかパス通してなんとかするかしてください。
+VSCode以外でもgccを使いたい場合は気合で`/opt/homebrew/bin/gcc-14`を打つかパス通してなんとかするかしてください。
 
 それでは、また次回。
