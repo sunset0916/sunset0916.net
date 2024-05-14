@@ -113,7 +113,7 @@ FascodeNetworkのホームページは[こちら](https://fascode.net/)
 
 ## このサイトについて
 
-このサイトはHugoとテーマのCongoで制作し、GitHub Pagesを使用して公開されています。
+このサイトはHugoとテーマのBlowfishで制作し、GitHub Pagesを使用して公開されています。
 
 ソースコードは[こちら](https://github.com/sunset0916/sunset0916.net)からどうぞ。
 
