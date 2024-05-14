@@ -3,7 +3,6 @@ languageName = "Japanese"
 weight = 1
 
 title = "サンセットのウェブサイト"
-copyright = "&copy; 2023-2024 サンセット"
 
 [params]
   isoCode = "ja"
@@ -13,8 +12,9 @@ copyright = "&copy; 2023-2024 サンセット"
   dateFormat = "2006/01/02"
 
   description = "サンセットのウェブサイトです。"
+  copyright = "&copy; 2023-2024 サンセット"
 
-[params.author]
+[author]
   name = "サンセット"
   image = "img/author.png"
   headline = "プログラミングしたりお絵かきしたり自作PC組んだり…"

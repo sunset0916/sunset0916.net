@@ -1,6 +1,6 @@
 ---
 title: "モバイルバッテリーのケースには化粧ポーチが最適という話"
-description: "専用品以外が専用日を上回ること、ありますよね。"
+description: "専用品以外が専用品を上回ること、ありますよね。"
 date: 2024-04-30T16:59:11+09:00
 draft: false
 tags: [blog, gadget]
@@ -55,9 +55,21 @@ Anker 347 Power Bankと調べてもらえればわかるものではあります
 
 その後しばらくして持ってきたのがこれ。
 
-![化粧ポーチ](case-close.jpg)
+{{< gallery >}}
 
-![化粧ポーチ2](case-open.jpg)
+    {{< figure
+    src="case-close.jpg"
+    alt="ケース1"
+    class="grid-w50"
+    >}}
+
+    {{< figure
+    src="case-open.jpg"
+    alt="ケース2"
+    class="grid-w50"
+    >}}
+
+{{< /gallery >}}
 
 丁度いいサイズの予感…！
 
@@ -87,7 +99,7 @@ Anker 347 Power Bankと調べてもらえればわかるものではあります
 
 ## 気になったこと
 
-{{< fukidashi position="left" path="/img/author.png" >}}
+{{< fukidashi position="left" path="author.png" >}}
 
 すっごく質感のいいケースだけどこれどうしたん？
 
