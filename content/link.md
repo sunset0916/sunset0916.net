@@ -13,6 +13,10 @@ showAuthor: false
 
 こんなサイトと相互リンクしてくださるんですか！？
 
-いつもありがとうございます…
+いつもありがとうございます…！
 
-現在リンク数0、~~ぼっち~~工事中です…
+<a style="all: initial; margin-right: 1em;" href="https://nullnyat.nca10.moe/" target="_blank" rel="noopener noreferrer"><img style="all: initial;" src="https://nullnyat.nca10.moe/nullnyat-banner.png" alt="ぬるにゃ" class="nozoom"></a>
+<a style="all: initial;" href="https://starlamp.su/" target="_blank" rel="noopener noreferrer"><img style="all: initial;" src="https://starlamp.su/theme/img/banner.png" alt="Porlam" class="nozoom"></a>
+
+<a style="all: initial; margin-right: 1em;" href="https://syobon.net/" target="_blank" rel="noopener noreferrer"><img style="all: initial;" src="https://syobon.net/img/banner.png" alt="SyoBoN" class="nozoom"></a>
+<a style="all: initial;" href="https://blog.adzuki.me/" target="_blank" rel="noopener noreferrer"><img style="all: initial;" src="https://blog.adzuki.me/banner.png" alt="あずきゃ" class="nozoom"></a>
