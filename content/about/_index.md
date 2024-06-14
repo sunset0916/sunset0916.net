@@ -121,7 +121,7 @@ FascodeNetworkのホームページは[こちら](https://fascode.net/)
 
 サンセットのウェブサイトはリンクフリーです。
 
-バナーは以下の画像([https://sunset0916.net/img/banner.png](https://sunset0916.net/banner.png))をお使い下さい。
+バナーは以下の画像([https://sunset0916.net/img/banner.png](https://sunset0916.net/img/banner.png))をお使い下さい。
 
 <img src="/img/banner.png" alt="バナー画像" width="234" height="60">
 
