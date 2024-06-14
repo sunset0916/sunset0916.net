@@ -117,4 +117,12 @@ FascodeNetworkのホームページは[こちら](https://fascode.net/)
 
 ソースコードは[こちら](https://github.com/sunset0916/sunset0916.net)からどうぞ。
 
+## 相互リンクについて
+
+サンセットのウェブサイトはリンクフリーです。
+
+バナーは以下の画像([https://sunset0916.net/img/banner.png](https://sunset0916.net/banner.png))をお使い下さい。
+
+<img src="/img/banner.png" alt="バナー画像" width="234" height="60">
+
 ## 関連記事

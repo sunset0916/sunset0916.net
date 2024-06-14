@@ -26,6 +26,11 @@
   weight = 30
 
 [[main]]
+  name = "link"
+  url = "/link"
+  weight = 40
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
