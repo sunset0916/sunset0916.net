@@ -123,6 +123,6 @@ FascodeNetworkのホームページは[こちら](https://fascode.net/)
 
 バナーは以下の画像([https://sunset0916.net/img/banner.png](https://sunset0916.net/img/banner.png))をお使い下さい。
 
-<img src="/img/banner.png" alt="バナー画像" width="234" height="60">
+<img style="all: initial;" src="/img/banner.png" alt="バナー画像" width="234" height="60" class="nozoom">
 
 ## 関連記事
