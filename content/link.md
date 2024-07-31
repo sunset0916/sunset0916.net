@@ -15,8 +15,10 @@ showAuthor: false
 
 いつもありがとうございます…！
 
-<a style="all: initial; margin-right: 0.5em;" href="https://nullnyat.nca10.moe/" target="_blank" rel="noopener noreferrer"><img style="all: initial; cursor: pointer; width: 234px; height: 60px;" src="https://nullnyat.nca10.moe/nullnyat-banner.png" alt="ぬるにゃ" class="nozoom" onerror="this.src='/img/banner/nullnyat-nca10-moe.webp'"></a>
-<a style="all: initial; margin-right: 0.5em;" href="https://blog.starlamp.su" target="_blank" rel="noopener noreferrer"><img style="all: initial; cursor: pointer; width: 234px; height: 60px;" src="https://obj.04.si/banner.png" alt="Porlam" class="nozoom" onerror="this.src='/img/banner/starlamp-su.webp'"></a>
-<a style="all: initial; margin-right: 0.5em;" href="https://syobon.net/" target="_blank" rel="noopener noreferrer"><img style="all: initial; cursor: pointer; width: 234px; height: 60px;" src="https://syobon.net/img/banner.png" alt="SyoBoN" class="nozoom" onerror="this.src='/img/banner/syobon-net.png'"></a>
-<a style="all: initial; margin-right: 0.5em;" href="https://blog.adzuki.me/" target="_blank" rel="noopener noreferrer"><img style="all: initial; cursor:pointer; width: 234px; height: 60px;" src="https://blog.adzuki.me/banner.png" alt="あずきゃ" class="nozoom" onerror="this.src='/img/banner/blog-adzuki-me.png'"></a>
-<a style="all: initial; margin-right: 0.5em;" href="https://taichan.site/" target="_blank" rel="noopener noreferrer"><img style="all: initial; cursor:pointer; width: 234px; height: 60px;" src="https://taichan.site/assets/banner.png" alt="taichan" class="nozoom" onerror="this.src='/img/banner/taichan-site.png'"></a>
+{{< links >}}
+  {{< banner url="https://nullnyat.nca10.moe/" src="https://nullnyat.nca10.moe/nullnyat-banner.png" alt="ぬるにゃ" onerror="/img/banner/nullnyat-nca10-moe.webp" >}}
+  {{< banner url="https://blog.starlamp.su" src="https://obj.04.si/banner.png" alt="Porlam" onerror="/img/banner/starlamp-su.webp" >}}
+  {{< banner url="https://syobon.net/" src="https://syobon.net/img/banner.png" alt="SyoBoN" onerror="/img/banner/syobon-net.png" >}}
+  {{< banner url="https://blog.adzuki.me/" src="https://blog.adzuki.me/banner.png" alt="あずきゃ" onerror="/img/banner/blog-adzuki-me.png" >}}
+  {{< banner url="https://taichan.site/" src="https://taichan.site/assets/banner.png" alt="taichan" onerror="/img/banner/taichan-site.png" >}}
+{{< /links >}}
