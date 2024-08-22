@@ -5,7 +5,7 @@ date: 2023-07-01T21:02:24+09:00
 draft: false
 showDate: false
 showPagination: false
-showTableOfContents: false
+sharingLinks: false
 tags: [about]
 categories: [about]
 ---

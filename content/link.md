@@ -6,6 +6,7 @@ draft: false
 showDate: false
 showPagination: false
 showTableOfContents: false
+sharingLinks: false
 showAuthor: false
 ---
 

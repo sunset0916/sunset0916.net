@@ -5,7 +5,7 @@ date: 2023-07-01T21:03:46+09:00
 draft: false
 showDate: false
 showPagination: false
-showTableOfContents: false
+sharingLinks: false
 tags: [about, gadget]
 categories: [about]
 ---

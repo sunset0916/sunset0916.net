@@ -5,7 +5,7 @@ date: 2023-07-01T21:04:07+09:00
 draft: false
 showDate: false
 showPagination: false
-showTableOfContents: false
+sharingLinks: false
 tags: [about, programming]
 categories: [about]
 ---

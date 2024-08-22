@@ -74,7 +74,7 @@ disableTextInHeader = false
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "misskey"]
   showZenMode = false
 
 [list]
