@@ -5,6 +5,7 @@ date: 2024-04-30T16:59:11+09:00
 draft: false
 tags: [blog, gadget]
 categories: [blog]
+summary: "専用品以外が専用品を上回ること、ありますよね。"
 ---
 
 ## はじめに

@@ -5,6 +5,7 @@ date: 2024-07-14T22:15:57+09:00
 draft: false
 tags: [blog]
 categories: [blog]
+summary: "Minecraftはサーバー管理者の登竜門"
 ---
 
 ## はじめに

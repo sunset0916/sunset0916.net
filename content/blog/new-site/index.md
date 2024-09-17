@@ -5,6 +5,7 @@ date: 2023-07-01T21:08:46+09:00
 draft: false
 tags: [blog]
 categories: [blog]
+summary: "クソサイトのつもりがまともなブログになってきました"
 ---
 
 ## はじめに

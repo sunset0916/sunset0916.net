@@ -5,6 +5,7 @@ date: 2024-05-25T12:18:29+09:00
 draft: false
 tags: [blog, pc]
 categories: [blog]
+summary: "ソリティアが快適になって喜んでました"
 ---
 
 ## はじめに

@@ -5,6 +5,7 @@ date: 2023-10-11T09:53:53+09:00
 draft: false
 tags: [blog, gadget]
 categories: [blog]
+summary: "中華フォントで改行位置が変な日本語使うなら英語のほうが良くない？"
 ---
 
 ## はじめに

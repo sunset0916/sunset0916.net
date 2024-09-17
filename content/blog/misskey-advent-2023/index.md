@@ -5,6 +5,7 @@ date: 2023-12-04T00:00:00+09:00
 draft: false
 tags: [blog, misskey]
 categories: [blog]
+summary: "この記事はMisskey Advent Calendar 2023 4日目の記事です"
 ---
 
 {{< alert "circle-info" >}}

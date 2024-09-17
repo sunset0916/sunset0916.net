@@ -5,6 +5,7 @@ date: 2024-03-12T12:42:21+09:00
 draft: false
 tags: [blog, misskey]
 categories: [blog]
+summary: "こんなの気にしてるのサンセットだけ"
 ---
 
 ## はじめに

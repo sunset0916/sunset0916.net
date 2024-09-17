@@ -5,6 +5,7 @@ date: 2023-09-09T16:51:42+09:00
 draft: false
 tags: [blog, pc]
 categories: [blog]
+summary: "Winタブ？よし通れ。ただしWindows、テメーはダメだ"
 ---
 
 ## はじめに

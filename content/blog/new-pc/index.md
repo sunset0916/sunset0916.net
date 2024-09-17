@@ -5,6 +5,7 @@ date: 2023-07-06T11:03:38+09:00
 draft: false
 tags: [blog, pc]
 categories: [blog]
+summary: "安定して空冷で使えて光学ドライブを搭載したそこそこの性能のPC、これが一番良い"
 ---
 
 ## はじめに

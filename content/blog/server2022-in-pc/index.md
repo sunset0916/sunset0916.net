@@ -5,6 +5,7 @@ date: 2023-07-12T00:25:19+09:00
 draft: false
 tags: [blog, pc]
 categories: [blog]
+summary: "余計な機能の無い最新のWindowsください"
 ---
 
 ## はじめに

@@ -5,6 +5,7 @@ date: 2024-08-18T11:24:45+09:00
 draft: false
 tags: [blog, gadget]
 categories: [blog]
+summary: "毎年「これが完成形か！？」「えっここがアップデートされるの！？」を繰り返してる"
 ---
 
 ## はじめに

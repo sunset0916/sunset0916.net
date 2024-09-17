@@ -5,6 +5,7 @@ date: 2023-09-06T17:16:14+09:00
 draft: false
 tags: [blog]
 categories: [blog]
+summary: "病気って怖いよね"
 ---
 
 ## はじめに

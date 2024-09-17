@@ -12,18 +12,24 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+replyByEmail = false
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
+# backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+# giteaDefaultServer = "https://git.fsfe.org"
+# forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -88,6 +94,7 @@ disableTextInHeader = false
   showLikes = false
   showTableOfContents = true
   showCards = false
+  orderByWeight = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
@@ -133,6 +140,12 @@ disableTextInHeader = false
 [umamiAnalytics]
   # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+  # enableTrackEvent = true
+
+[selineAnalytics]
+  # token = "XXXXXX"
+  # enableTrackEvent = true
 
 [buymeacoffee]
   # identifier = ""

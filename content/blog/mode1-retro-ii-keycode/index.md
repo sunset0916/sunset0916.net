@@ -5,6 +5,7 @@ date: 2024-04-08T10:17:43+09:00
 draft: false
 tags: [blog, gadget]
 categories: [blog]
+summary: "特殊なスマホはいろいろ特殊になりがち"
 ---
 
 ## はじめに

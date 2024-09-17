@@ -5,6 +5,7 @@ date: 2024-09-03T17:26:45+09:00
 draft: false
 tags: [blog, gadget]
 categories: [blog]
+summary: "今更！？！？(2024年9月)"
 ---
 
 ## はじめに

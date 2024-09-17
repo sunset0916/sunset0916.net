@@ -5,6 +5,7 @@ date: 2023-07-29T13:27:58+09:00
 draft: false
 tags: [blog]
 categories: [blog]
+summary: "一度は行ってみたいと思う場所、日本最〇〇の1つ"
 ---
 
 ## はじめに
