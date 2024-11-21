@@ -9,7 +9,6 @@ defaultContentLanguage = "ja"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 buildDrafts = false
@@ -18,6 +17,9 @@ buildFuture = false
 timeout = "60s"
 
 googleAnalytics = "G-FZ0WMHW80T"
+
+[pagination]
+  pagerSize = 10
 
 [permalinks]
 blog = "/:section/:year/:month/:day/:filename/"
