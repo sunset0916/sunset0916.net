@@ -14,7 +14,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-timeout = "60s"
+timeout = "90s"
 
 googleAnalytics = "G-FZ0WMHW80T"
 
