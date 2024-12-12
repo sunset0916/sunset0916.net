@@ -78,7 +78,7 @@ https://misskey-hub.net/share/?title=タイトル&text=本文&url=https://misske
 
 | 名前 | 説明 |
 | --- | --- |
-| `renoteUri` | リプライ先のURL |
+| `renoteUri` | Renoteする投稿のURL |
 
 ```plaintext
 https://misskey-hub.net/share/?title=タイトル&text=本文&url=https://misskey-hub.net&renoteUri=https://mi.sunset0916.net/notes/9w2uw7v597
