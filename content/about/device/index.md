@@ -40,6 +40,7 @@ categories: [about]
 - Fujitsu arrows Be3 F-02L
 - SHARP AQUOS Xx3 mini 603SH
 - SHARP AQUOS sense SH-01K
+- SHARP AQUOS sense4 SH-M15
 - Motorola moto g31
 - OPPO A73
 - Rakuten Hand
@@ -48,6 +49,7 @@ categories: [about]
 - Samsung Galaxy S20 5G SC-51Aa
 - Google Pixel 4a
 - Nothing Phone(1)
+- LG WING
 - Lenovo IdeaPad Duet Chromebook
 - Dospara Diginnos DG-D08IW2SL
 - Fujitsu ARROWS Tab Q508/SE
