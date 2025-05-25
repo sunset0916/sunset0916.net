@@ -14,7 +14,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-timeout = "90s"
+timeout = "120s"
 
 googleAnalytics = "G-FZ0WMHW80T"
 
@@ -22,7 +22,7 @@ googleAnalytics = "G-FZ0WMHW80T"
   pagerSize = 10
 
 [permalinks]
-blog = "/:section/:year/:month/:day/:filename/"
+blog = "/:section/:year/:month/:day/:contentbasename/"
 
 [imaging]
   anchor = 'Center'

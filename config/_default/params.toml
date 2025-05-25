@@ -141,6 +141,7 @@ smartTOCHideUnfocusedChildren = false
   # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
+  # scriptName = ""
   # enableTrackEvent = true
 
 [selineAnalytics]
@@ -159,3 +160,8 @@ smartTOCHideUnfocusedChildren = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
+  # fediverse = "@sunset@mi.sunset0916.net"
+
+[rssnext]
+  # feedId = ""
+  # userId = ""
