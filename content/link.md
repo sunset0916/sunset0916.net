@@ -22,5 +22,5 @@ showAuthor: false
   {{< banner url="https://syobon.net/" src="https://syobon.net/img/banner.png" alt="SyoBoN" onerror="/img/banner/syobon-net.png" >}}
   {{< banner url="https://blog.adzuki.me/" src="https://blog.adzuki.me/banner.png" alt="あずきゃ" onerror="/img/banner/blog-adzuki-me.png" >}}
   {{< banner url="https://taichan.site/" src="https://taichan.site/assets/banner.png" alt="taichan" onerror="/img/banner/taichan-site.png" >}}
-  {{< banner url="https://natumi.tkngh.jp/" src="https://natumi.tkngh.jp/pics/banner2405.png" alt="夏見馨" onerror="/img/banner/natumi-tkngh-jp" >}}
+  {{< banner url="https://natumi.tkngh.jp/" src="https://natumi.tkngh.jp/pics/banner2405.png" alt="夏見馨" onerror="/img/banner/natumi-tkngh-jp.png" >}}
 {{< /links >}}
