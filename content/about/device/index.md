@@ -20,9 +20,8 @@ categories: [about]
 
 ## スマホ
 
-- CMF by Nothing Phone 1
+- Nothing Phone(3)
 - iPhone SE(第3世代)
-- Mode1 RETRO Ⅱ
 
 ## タブレット
 
@@ -37,7 +36,7 @@ categories: [about]
 - SONY Xperia Z5 Premium SO-03H
 - Fujitsu らくらくスマートフォンme F-03K
 - Fujitsu arrows Be F-04K
-- Fujitsu arrows Be3 F-02L
+- FCNT arrows We2 M07
 - SHARP AQUOS Xx3 mini 603SH
 - SHARP AQUOS sense SH-01K
 - SHARP AQUOS sense4 SH-M15
@@ -48,8 +47,11 @@ categories: [about]
 - HUAWEI P30 lite
 - Samsung Galaxy S20 5G SC-51Aa
 - Google Pixel 4a
+- Mode1 RETRO Ⅱ
 - Nothing Phone(1)
+- CMF Phone 1
 - LG WING
+- ZTE Nubia Z20
 - Lenovo IdeaPad Duet Chromebook
 - Dospara Diginnos DG-D08IW2SL
 - Fujitsu ARROWS Tab Q508/SE
@@ -61,11 +63,12 @@ categories: [about]
 - Lenovo B50-70
 - RaspberryPi 3 Model B
 - RaspberryPi 3 Model B+
-- LIVA-C0-2G-64G-W x2
-- Shuttle DH170
+- LIVA-C0-2G-64G-W
 - HP Z420 Workstation
 
 ## サーバー
 
 - ASRock DeskMini X300
+- Shuttle DH170
+- LIVA-C0-2G-64G-W
 - Synology DS220j
