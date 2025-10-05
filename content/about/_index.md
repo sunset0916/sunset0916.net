@@ -23,7 +23,7 @@ Fascode Networkという変態雑技集団に所属し、ブログを書いた�
 普段はTwitterやMisskeyでクソみたいな投稿を垂れ流しています。メンションやDMはお気軽にどうぞ。
 
 2002年9月16日三重県四日市市生まれ。桑名市育ち。埼玉県在住。  
-現在は専門学校と大学を卒業し、IT企業に就職。研修の日々。
+現在は専門学校と大学を卒業し、IT企業に就職。AWSとにらめっこ。
 
 趣味はPC、スマホ弄り、Minecraft、東方など。
 
@@ -122,5 +122,8 @@ FascodeNetworkのホームページは[こちら](https://fascode.net/)
 バナーは以下の画像([https://sunset0916.net/img/banner.png](https://sunset0916.net/img/banner.png))をお使い下さい。
 
 <img style="all: initial;" src="/img/banner.png" alt="バナー画像" width="234" height="60" class="nozoom">
+
+バナーを掲載してくださった方は是非ご連絡ください。  
+相互リンクとなるよう[相互リンク所](/link)に掲載させていただきます。
 
 ## 関連記事
