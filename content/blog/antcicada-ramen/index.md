@@ -5,6 +5,7 @@ date: 2025-11-03T00:53:38+09:00
 draft: false
 tags: [blog]
 categories: [blog]
+summary: "粉になっただけの昆虫やゲテモノとは違う、おいしい昆虫の世界を見た"
 ---
 
 ## はじめに
