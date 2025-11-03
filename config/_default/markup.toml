@@ -2,8 +2,11 @@
 # These settings are required for the theme to function.
 
 [goldmark]
-[goldmark.renderer]
-  unsafe = true
+  [goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false
+
+  [goldmark.renderer]
+    unsafe = true
 
   [goldmark.extensions]
     [goldmark.extensions.passthrough]

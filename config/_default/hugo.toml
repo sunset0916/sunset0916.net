@@ -16,6 +16,8 @@ buildFuture = false
 
 timeout = "120s"
 
+enableEmoji = true
+
 googleAnalytics = "G-FZ0WMHW80T"
 
 [pagination]

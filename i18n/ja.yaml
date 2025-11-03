@@ -57,7 +57,8 @@ sharing:
   pinterest: "Pinterestでピンする"
   reddit: "Redditに投稿する"
   twitter: "Twitterに投稿する"
-  misskey: "Misskeyでシェアする"
+  mastodon: "Mastodonに投稿する"
+  misskey: "Misskeyに投稿する"
 
 shortcode:
   recent_articles: "最近の記事"
