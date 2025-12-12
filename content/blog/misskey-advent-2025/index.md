@@ -12,6 +12,8 @@ summary: "この記事はMisskey Advent Calendar 2025 6日目の記事です"
 この記事は[Misskey Advent Calendar 2025](https://adventar.org/calendars/11291) 6日目の記事です。
 {{< /alert >}}
 
+{{< adventar url="https://adventar.org/calendars/11291" >}}
+
 ## はじめに
 
 はじめましての方ははじめまして、そうでない方はこんにちは。サンセット([@sunset@mi.sunset0916.net](https://mi.sunset0916.net/@sunset))です。

@@ -12,6 +12,8 @@ summary: "この記事はMisskey Advent Calendar 2024 12日目の記事です"
 この記事は[Misskey Advent Calendar 2024](https://adventar.org/calendars/10208) 12日目の記事です。
 {{< /alert >}}
 
+{{< adventar url="https://adventar.org/calendars/10208" >}}
+
 ## はじめに
 
 はじめましての方ははじめまして、そうでない方はこんにちは。サンセット([@sunset@mi.sunset0916.net](https://mi.sunset0916.net/@sunset))です。

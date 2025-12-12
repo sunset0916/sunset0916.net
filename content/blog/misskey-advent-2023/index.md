@@ -12,6 +12,8 @@ summary: "この記事はMisskey Advent Calendar 2023 4日目の記事です"
 この記事は[Misskey Advent Calendar 2023](https://adventar.org/calendars/8742) 4日目の記事です。
 {{< /alert >}}
 
+{{< adventar url="https://adventar.org/calendars/8742" >}}
+
 ## はじめに
 
 はじめましての方ははじめまして、そうでない方はこんにちは。サンセット([@sunset@mi.sunset0916.net](https://mi.sunset0916.net/@sunset))です。
