@@ -32,6 +32,7 @@ categories: [about]
 - iPhone SE(第2世代)
 - LG Nexus 5
 - ASUS Nexus 7 2013
+- Huawei Nexus 6P
 - SONY Xperia Z3 Compact SO-02G
 - SONY Xperia Z5 Premium SO-03H
 - Fujitsu らくらくスマートフォンme F-03K
@@ -52,6 +53,7 @@ categories: [about]
 - CMF Phone 1
 - LG WING
 - ZTE Nubia Z20
+- Blackberry Priv
 - Lenovo IdeaPad Duet Chromebook
 - Dospara Diginnos DG-D08IW2SL
 - Fujitsu ARROWS Tab Q508/SE
