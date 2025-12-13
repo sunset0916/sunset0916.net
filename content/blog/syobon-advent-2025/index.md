@@ -2,7 +2,7 @@
 title: "HugoにAdventarのカレンダーを埋め込む"
 description: "ショートコードをもっと活用していきたい"
 date: 2025-12-13T19:00:00+09:00
-draft: true
+draft: false
 tags: [blog]
 categories: [blog]
 summary: "この記事はしょぼねこ Advent Calendar 2025 13日目の記事です"
