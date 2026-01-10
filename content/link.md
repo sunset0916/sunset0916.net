@@ -24,4 +24,5 @@ showAuthor: false
   {{< banner url="https://taichan.site/" src="https://taichan.site/assets/banner.png" alt="taichan" onerror="/img/banner/taichan-site.png" >}}
   {{< banner url="https://natumi.tkngh.jp/" src="https://natumi.tkngh.jp/pics/banner2405.png" alt="夏見馨" onerror="/img/banner/natumi-tkngh-jp.png" >}}
   {{< banner url="https://caligula-sea.net/" src="https://caligula-sea.net/banya-.png" alt="猫乃名無 (仮)" onerror="/img/banner/caligula-sea-net.png" >}}
+  {{< banner url="https://35enidoi.github.io/tekitoublog/" src="https://35enidoi.github.io/tekitoublog/statics/iodine-tekitou-blog-half.png" alt="六角レンチ" onerror="/img/banner/35enidoi-github-io-tekitoublog.png" >}}
 {{< /links >}}
