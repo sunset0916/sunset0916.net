@@ -16,7 +16,8 @@ categories: [about]
 
 - デスクトップ：自作
 - ノート1：MacBook Pro 14inch M3 2023
-- ノート2：MSI Modern 14
+- ノート2：MacBook 12inch 2017
+- ノート3：MSI Modern 14
 
 ## スマホ
 
@@ -48,11 +49,14 @@ categories: [about]
 - HUAWEI P30 lite
 - Samsung Galaxy S20 5G SC-51Aa
 - Google Pixel 4a
+- Google Pixel 8
 - Mode1 RETRO Ⅱ
 - Nothing Phone(1)
 - CMF Phone 1
 - LG WING
+- LG Fx0 LGL25
 - ZTE Nubia Z20
+- ZTE M Z-01K
 - Blackberry Priv
 - Lenovo IdeaPad Duet Chromebook
 - Dospara Diginnos DG-D08IW2SL
