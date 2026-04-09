@@ -33,7 +33,7 @@ categories: [about]
 - iPhone SE(第2世代)
 - LG Nexus 5
 - ASUS Nexus 7 2013
-- Huawei Nexus 6P
+- HUAWEI Nexus 6P
 - SONY Xperia Z3 Compact SO-02G
 - SONY Xperia Z5 Premium SO-03H
 - Fujitsu らくらくスマートフォンme F-03K

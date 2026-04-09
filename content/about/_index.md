@@ -62,7 +62,7 @@ Fascode Networkという変態雑技集団に所属し、ブログを書いた�
 - VisualBasic.NET：Windows向けの需要のないソフトの開発ができる程度
 - C#：Windows向けの以下略
 - Java：Android向けの需要のないアプリの開発ができる程度
-- Python：コマンドラインベースのTwitter/Misskey同時投稿スクリプトが作れる程度
+- Python：AWSのLambdaでいろいろできる程度
 - HTML：[このサイト](https://old.sunset0916.net/)が作れる程度
 - CSS：[このサイト](https://old.sunset0916.net/)が作れる程度
 - JavaScript：[クソゲー](https://locagame.sunset0916.net/)が作れる程度
