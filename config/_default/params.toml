@@ -29,6 +29,8 @@ disableTextInHeader = false
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
+# Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
+# thumbnailAspectRatio = "1.5"
 # imagePosition = "50% 50%"
 
 # highlightCurrentMenuArea = true
@@ -88,7 +90,9 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
+  showCategories = true # These will show if showTaxonomies is true.
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
+  showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "mastodon", "misskey"]
@@ -119,6 +123,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showTermCount = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -128,6 +134,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 [term]
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showViews = false
   showLikes = false
