@@ -54,6 +54,7 @@ categories: [about]
 - Nothing Phone(1)
 - CMF Phone 1
 - LG WING
+- LG VELVET
 - LG Fx0 LGL25
 - ZTE Nubia Z20
 - ZTE M Z-01K
