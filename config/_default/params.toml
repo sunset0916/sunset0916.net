@@ -42,6 +42,16 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 # giteaDefaultServer = "https://git.fsfe.org"
 # forgejoDefaultServer = "https://v8.next.forgejo.org"
 
+[languageRedirect]
+  enabled = false # Enable client-side language redirects for multilingual sites.
+  storageKey = "blowfish_preferred_language" # localStorage key for manual language selections.
+  # fallbackLanguage = "" # Language to use when no browser language matches. Defaults to Hugo's default content language.
+  browserRedirectHomeOnly = true # Restrict browser-language redirects to home pages.
+  storedLanguageRedirect = true # Redirect to the stored language when a matching translation exists.
+
+[seo]
+# metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
+
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 

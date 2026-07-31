@@ -1,5 +1,5 @@
-languageCode = "ja"
-languageName = "Japanese"
+locale = "ja"
+label = "Japanese"
 weight = 1
 
 title = "サンセットのウェブサイト"
@@ -12,7 +12,7 @@ title = "サンセットのウェブサイト"
   dateFormat = "2006/01/02"
 
   description = "サンセットのウェブサイトです。"
-  copyright = "&copy; 2023-2024 サンセット"
+  copyright = "&copy; 2023-2026 サンセット"
 
 [params.author]
   name = "サンセット"
