@@ -27,4 +27,5 @@ showAuthor: false
   {{< banner url="https://35enidoi.github.io/tekitoublog/" src="https://35enidoi.github.io/tekitoublog/statics/iodine-tekitou-blog-half.png" alt="六角レンチ" onerror="/img/banner/35enidoi-github-io-tekitoublog.png" >}}
   {{< banner url="https://roi.3.5mbps.net/" src="https://roi.3.5mbps.net/images/homepage_banner_1.png" alt="敷島ロイ" onerror="/img/banner/roi-3-5mbps-net.png" >}}
   {{< banner url="https://eap.vg/" src="https://eap.vg/img/eap-banner.png" alt="かんたん宛名印刷" onerror="/img/banner/eap-vg.png" >}}
+  {{< banner url="https://stesan.dev/" src="https://stesan.dev/banners/banner.png" alt="すてさん" onerror="/img/banner/stesan-dev.png" >}}
 {{< /links >}}
