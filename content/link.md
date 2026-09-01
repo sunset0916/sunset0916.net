@@ -19,7 +19,7 @@ showAuthor: false
 {{< links >}}
   {{< banner url="https://nullnyat.nca10.moe/" src="https://nullnyat.nca10.moe/nullnyat-banner.png" alt="ぬるにゃ" onerror="/img/banner/nullnyat-nca10-moe.webp" >}}
   {{< banner url="https://blog.starlamp.su" src="https://obj.04.si/banner.png" alt="Porlam" onerror="/img/banner/starlamp-su.webp" >}}
-  {{< banner url="https://syobon.net/" src="https://syobon.net/img/banner.png" alt="SyoBoN" onerror="/img/banner/syobon-net.png" >}}
+  {{< banner url="https://syobon.net/" src="https://syobon.net/assets/banner.png" alt="SyoBoN" onerror="/img/banner/syobon-net.png" >}}
   {{< banner url="https://blog.adzuki.me/" src="https://blog.adzuki.me/banner.png" alt="あずきゃ" onerror="/img/banner/blog-adzuki-me.png" >}}
   {{< banner url="https://taichan.site/" src="https://taichan.site/assets/banner.png" alt="taichan" onerror="/img/banner/taichan-site.png" >}}
   {{< banner url="https://natumi.tkngh.jp/" src="https://natumi.tkngh.jp/pics/banner2405.png" alt="夏見馨" onerror="/img/banner/natumi-tkngh-jp.png" >}}
@@ -28,4 +28,8 @@ showAuthor: false
   {{< banner url="https://roi.3.5mbps.net/" src="https://roi.3.5mbps.net/images/homepage_banner_1.png" alt="敷島ロイ" onerror="/img/banner/roi-3-5mbps-net.png" >}}
   {{< banner url="https://eap.vg/" src="https://eap.vg/img/eap-banner.png" alt="かんたん宛名印刷" onerror="/img/banner/eap-vg.png" >}}
   {{< banner url="https://stesan.dev/" src="https://stesan.dev/banners/banner.png" alt="すてさん" onerror="/img/banner/stesan-dev.png" >}}
+  {{< banner url="https://www.okin-jp.net/" src="https://www.okin-jp.net/wp-content/uploads/2024/07/d8d7453933231e34d67366077f68504b.png" alt="おきん" onerror="/img/banner/okin-jp-net.png" >}}
+  {{< banner url="https://nexryai.me/" src="https://nexryai.me/banner.png" alt="ねくすらい" onerror="/img/banner/nexryai-me.png" >}}
+  {{< banner url="https://r0m.me/" src="" alt="ろむねこ" onerror="/img/banner/r0m-me.png" >}}
+  {{< banner url="https://tomadoi.com/" src="https://tomadoi.com/image/banner400x80.png" alt="****" onerror="/img/banner/tomadoi-com.png" >}}
 {{< /links >}}

@@ -75,7 +75,7 @@ categories: [about]
 
 ## サーバー
 
-- ASRock DeskMini X300
+- ASRock DeskMini X300/2.5G
 - Shuttle DH170
 - LIVA-C0-2G-64G-W
 - Synology DS220j
