@@ -26,6 +26,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -54,6 +55,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  # mobileMenuStyle = "fullscreen" # valid options: fullscreen, dropdown
 
 [footer]
   showMenu = true
@@ -64,6 +66,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
+  # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
@@ -96,6 +99,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showPagination = true
   invertPagination = false
   showReadingTime = false
+  showReadingProgress = true
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
@@ -111,6 +115,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [list]
   showHero = false
+  # featureImageHover = false # subtle zoom on card thumbnails on hover
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
