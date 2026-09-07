@@ -32,4 +32,5 @@ showAuthor: false
   {{< banner url="https://nexryai.me/" src="https://nexryai.me/banner.png" alt="ねくすらい" onerror="/img/banner/nexryai-me.png" >}}
   {{< banner url="https://r0m.me/" src="" alt="ろむねこ" onerror="/img/banner/r0m-me.png" >}}
   {{< banner url="https://tomadoi.com/" src="https://tomadoi.com/image/banner400x80.png" alt="****" onerror="/img/banner/tomadoi-com.png" >}}
+  {{< banner url="https://c30.life/" src="https://c30.life/c30-life-banner.png" alt="c30" onerror="/img/banner/c30-life.png" >}}
 {{< /links >}}
