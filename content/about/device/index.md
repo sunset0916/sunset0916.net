@@ -16,8 +16,9 @@ categories: [about]
 
 - デスクトップ：自作
 - ノート1：MacBook Pro 14inch M3 2023
-- ノート2：MacBook 12inch 2017
-- ノート3：MSI Modern 14
+- ノート2：TENKU Note Pro AI
+- ノート3：MacBook 12inch 2017
+- ノート4：MSI Modern 14
 
 ## スマホ
 
@@ -33,7 +34,9 @@ categories: [about]
 - iPhone SE(第2世代)
 - LG Nexus 5
 - ASUS Nexus 7 2013
+- HTC Nexus 9
 - HUAWEI Nexus 6P
+- SONY Xperia feat. HATSUNE MIKU SO-04E
 - SONY Xperia Z3 Compact SO-02G
 - SONY Xperia Z5 Premium SO-03H
 - Fujitsu らくらくスマートフォンme F-03K
@@ -53,9 +56,10 @@ categories: [about]
 - Mode1 RETRO Ⅱ
 - Nothing Phone(1)
 - CMF Phone 1
+- LG Fx0 LGL25
 - LG WING
 - LG VELVET
-- LG Fx0 LGL25
+- LG VELVET 2 Pro
 - ZTE Nubia Z20
 - ZTE M Z-01K
 - Blackberry Priv
