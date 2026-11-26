@@ -48,9 +48,9 @@ showPagination: false
 ギャグ不足の方は以下のうるサイトへ
 
 - [Midraのサイト](https://midra.me/)
-- [L1n4r1Art](https://l1n4r1.art/gyagu/)
+- [L1n4r1Art(リンク先お亡くなり)](https://l1n4r1.art/gyagu/)
 - [はやおのぺーじ](https://www.hayao0819.com/gyagu)
-- [るちかどっとねっと。](https://lutica.net/gyagu.html)
+- [るちかどっとねっと。](https://lutica.net/gyagu)
 - [cffn.pw/r(リンク先お亡くなり)](https://cffn.pw/r/gyagu)
 - [かがみーむ](https://site.kagamisskey.com/gyagu.html)
 
