@@ -1,0 +1,5 @@
+{{ if .HasShortcode "fukidashi" }}
+  {{ with resources.Get "css/fukidashi.css" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

@@ -2,11 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish" # UNCOMMENT THIS LINE
+theme = "blowfish"
 baseURL = "https://sunset0916.net"
 defaultContentLanguage = "ja"
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+# pluralizeListTitles = true
 
 enableRobotsTXT = true
 summaryLength = 0
@@ -18,13 +18,17 @@ timeout = "120s"
 
 enableEmoji = true
 
-googleAnalytics = "G-FZ0WMHW80T"
+[services.googleAnalytics]
+  id = "G-FZ0WMHW80T"
 
 [pagination]
   pagerSize = 10
 
-[permalinks]
-blog = "/:section/:year/:month/:day/:contentbasename/"
+[permalinks.page]
+  blog = "/:section/:year/:month/:day/:contentbasename/"
+
+[permalinks.term]
+  blog = "/:section/:year/:month/:day/:contentbasename/"
 
 [imaging]
   anchor = 'Center'

@@ -41,7 +41,7 @@ smartTOCHideUnfocusedChildren = false
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
 # giteaDefaultServer = "https://git.fsfe.org"
-# forgejoDefaultServer = "https://v8.next.forgejo.org"
+# forgejoDefaultServer = "https://codeberg.org"
 
 [languageRedirect]
   enabled = false # Enable client-side language redirects for multilingual sites.
@@ -54,7 +54,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 # metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur, floating
   # mobileMenuStyle = "fullscreen" # valid options: fullscreen, dropdown
 
 [footer]
@@ -65,13 +65,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  layout = "profile" # valid options: page, profile, hero, card, background, landing, custom
   # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  #showMoreLinkDest = "/posts"
+  # showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -88,6 +88,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = false
@@ -105,7 +106,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # relatedContentLimit = 3
   showTaxonomies = false
   showCategories = true # These will show if showTaxonomies is true.
-  showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
+  showTags = true # These will show if showTaxonomies is true.
   showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = false
@@ -118,6 +119,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # featureImageHover = false # subtle zoom on card thumbnails on hover
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showSummary = true
@@ -139,6 +141,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showViews = false
@@ -150,6 +153,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showViews = false
@@ -178,6 +182,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
   # enableTrackEvent = true
+  # integrity = "sha384-YOUR_HASH"
 
 [selineAnalytics]
   # token = "XXXXXX"
@@ -188,7 +193,14 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  # globalWidgetPosition = "right"
+
+[kofi]
+  # identifier = ""
+  # globalWidget = true
+  # globalWidgetText = "Support me"
+  # globalWidgetBackgroundColor = "#00B9FE"
+  # globalWidgetTextColor = "#FFFFFF"
 
 [verification]
   # google = ""

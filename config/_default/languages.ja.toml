@@ -1,4 +1,5 @@
 locale = "ja"
+# disabled = false
 label = "Japanese"
 weight = 1
 
@@ -10,13 +11,17 @@ title = "サンセットのウェブサイト"
   rtl = false
 
   dateFormat = "2006/01/02"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
 
   description = "サンセットのウェブサイトです。"
   copyright = "&copy; 2023-2026 サンセット"
 
 [params.author]
   name = "サンセット"
+  # email = "youremail@example.com"
   image = "img/author.png"
+  # imageQuality = 96
   headline = "プログラミングしたりお絵かきしたり自作PC組んだり…"
   bio = "なんかいろいろやってるミス廃"
   links = [
